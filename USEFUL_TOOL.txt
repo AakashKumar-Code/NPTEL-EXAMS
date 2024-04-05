@@ -1,0 +1,13 @@
+https://www.linkedin.com/posts/arsh-kohli-815b1b1b8_hacked-together-a-quick-tool-to-practice-activity-7123323693648252928-4dfl?utm_source=share&utm_medium=member_desktop
+
+
+Hacked together a quick tool to practice past NPTEL assignments!
+
+🌟 It's a bookmarklet which lets you mark your own answers and show/hide the correct ones. Posting it here in case anyone else finds it useful
+
+📥 Install: https://arsh.zip/nptel
+(Works on Chrome, Firefox and Edge)
+
+Code in the comments. All the best to everyone who has their NPTEL exams this weekend! 🍀
+
+Edit: Credits to Ujjwal Dimri for adding support for multicorrect questions. Thanks for the contribution!
